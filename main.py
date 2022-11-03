@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Enter the path to the image
-IMAGE_PATH = "./ada.jpg" 
+IMAGE_PATH = "./heisenberg.jpg" 
 
 # Path of dice images. Dice images must be one-dimensional matrix.
 # In this case (7, 7, 1)

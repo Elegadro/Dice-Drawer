@@ -8,8 +8,8 @@ Install OpenCV and Numpy libraries. That's all.
 <p float="left">
  <figcaption><b>Input:</b></figcaption>
  
- <img src="https://github.com/Elegadro/Dice-Drawer/blob/main/heisenberg.jpg" width="25%" />
+ <img src="https://github.com/Elegadro/Dice-Drawer/blob/main/heisenberg.jpg" width="50%" />
  <figcaption><b>Result:</b></figcaption>
  
- <img src="https://github.com/Elegadro/Dice-Drawer/blob/main/Dice_Image.png" width="25%" />
+ <img src="https://github.com/Elegadro/Dice-Drawer/blob/main/Dice_Image.png" width="50%" />
 </p>
